@@ -1,8 +1,0 @@
-t1=()
-t2=(1,2,3)
-t3=tuple([4,5,6])
-t4=(10,"hello",3.14)
-print("empty tuple:",t1)
-print("tuple with values:",t2)
-print("tuple from list:",t3)
-print("mixed tuple:",t4)
